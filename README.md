@@ -17,7 +17,7 @@ Implementações :
     
     - Criado um arquivo Html contendo a Descrição das atividades realizadas 
     - Criado um arquivo css para estilização
-    - Imagen da Website anexada 
+    - Imagen da Website anexada.
 ---
 
 
