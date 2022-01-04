@@ -6,7 +6,7 @@ Aula prática do Bootcamp na Dio: Inter Frontend Developer
 
 ---
 
-Obejetivo do Projeto:
+Objetivo do Projeto:
 
     - Desenvolver os conhecimentos em Git e Github
     - Criando o Repositório e Gerenciando os arquivos
