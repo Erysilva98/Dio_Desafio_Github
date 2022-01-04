@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;    
+}
+
+body {
+    height:100%;
+    background-color: rgb(111, 111, 143);
+}
+
+.main {
+    min-height:100%; 
+    width:100%;
+    padding-top: 40px ;
+    margin: auto;
+}
+
+.header {
+    background-color: #000000;
+    color: #fafafa;
+    width: 100%;
+    padding: 50px;
+}
+
+.header .titulo {
+    text-align: center;
+}
+
+.section {
+    background-color: aqua;
+    color: #fafafa;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    padding: 50px;
+}
+
+.footer {
+    background-color: #000000;
+    color: #fafafa;
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+	bottom: 0;
+}
