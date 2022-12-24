@@ -1,5 +1,12 @@
 # DIO-Desafio_Github
 
+#
+## Tela Inicial
+#
+<img src="website-desafio.png" alt="Tela Inicial" height="300px"/>
+
+#
+
 Aula prática do Bootcamp na Dio: Inter Frontend Developer
 
     - Criando o Repositório no GitHub
